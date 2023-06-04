@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pooja Gurnule</h1>
-<img align="right" alt="GIF" src=["https://github.com/deut-erium/deut-erium/blob/master/assets/computer.gif?raw=1]" width="200vw" />
+<img align="right" alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/computer.gif?raw=1" width="200vw" />
 <h3 align="left">
 🚀 Backend Development:
 <li>Passionate backend developer with a focus on building robust and scalable API. </li>
