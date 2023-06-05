@@ -1,18 +1,23 @@
 <h1 align="center">Hi 👋, I'm Pooja Gurnule</h1>
 <img align="right" alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/computer.gif?raw=1" width="200vw" />
 <h3 align="left">
-🚀 Backend Development:
+   Welcome to my github! 👋
+
+## About me :mortar_board:
+As an Engineer with a passion for innovation, I am driven to make a meaningful impact through technology. With a solid educational background in CSE, I have developed a strong foundation in data structures and algorithms, OOP concepts, Spring Boot, REST APIs, Hibernate, MySql, and AWS EC2. I thrive in dynamic environments that foster creativity, collaboration, and continuous learning.
+  <br>
+## 🚀 Backend Development:
 <li>Passionate backend developer with a focus on building robust and scalable API. </li>
 <li> Proficient in Spring Boot, I have a strong grasp of Java programming and expertise in Data Structures and Algorithms (DSA)</li>
 <li>Focused on honing skills to contribute to robust and efficient backend systems</li>
 
-  📚 Learning Environment:
+ ## 📚 Learning Environment:
 <li>Thriving in the excellent learning environment at Geekster</li>
 <li>Expanding knowledge and making significant strides in career</li>
 <li>Leveraging internship experience to enhance expertise in backend development</li>
 Gaining experience in building robust backend systems using Spring Boot</li>
 
-🌟 Passion for Real-World Projects:
+## 🌟 Passion for Real-World Projects:
 <li>Eager to apply knowledge and expertise to impactful projects</li>
 <li>Actively exploring job opportunities to contribute skills and foster growth as a web developer</li>
 </h3>
