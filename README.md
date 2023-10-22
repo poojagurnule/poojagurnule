@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pooja Gurnule</h1>
-<img align="right" alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/computer.gif?raw=1" width="200vw" />
-<h3 align="left">
+
+<h3 >
    Welcome to my github! 👋
 
 ## About me :mortar_board:
